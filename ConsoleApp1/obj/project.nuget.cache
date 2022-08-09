@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8OV1XZrM1QypHPQ2G+WpjX/RFjY4OxHOon8AVujBYp14RE19SGjVCiBsYQ2gMyLvE2IhBQ6WEgcvkcv6iTN7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michel\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michel\\.nuget\\packages\\gdpicture\\14.1.0.184\\gdpicture.14.1.0.184.nupkg.sha512",
+    "C:\\Users\\michel\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\michel\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
